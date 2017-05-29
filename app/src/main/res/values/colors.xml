@@ -4,4 +4,27 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
     <color name="transparent">#00FFFFFF</color>
+
+    <color name="my_transparent">#00000000</color>
+    <color name="my_common_white">#FFFFFFFF</color>
+    <color name="my_white_alpha_1">#14FFFFFF</color>
+    <color name="my_white_alpha_5">#0DFFFFFF</color>
+    <color name="my_white_alpha_50">#7FFFFFFF</color>
+    <color name="my_white_alpha_60">#99FFFFFF</color>
+    <color name="my_white_alpha_65">#A5FFFFFF</color>
+    <color name="my_white_alpha_70">#B2FFFFFF</color>
+    <color name="my_white_alpha_75">#BFFFFFFF</color>
+    <color name="my_white_alpha_80">#CCFFFFFF</color>
+    <color name="my_white_alpha_85">#D8FFFFFF</color>
+    <color name="my_white_alpha_90">#E5FFFFFF</color>
+    <color name="my_white_alpha_95">#F2FFFFFF</color>
+    <color name="my_white_alpha_100">#00FFFFFF</color>
+
+    <color name="my_common_black">#FF000000</color>
+    <color name="my_black_alpha_10">#1A000000</color>
+    <color name="my_black_alpha_25">#40000000</color>
+    <color name="my_black_alpha_30">#4C000000</color>
+    <color name="my_black_alpha_60">#99000000</color>
+    <color name="my_black_alpha_65">#A5000000</color>
+    <color name="my_black_alpha_70">#B2000000</color>
 </resources>
