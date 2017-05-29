@@ -1,4 +1,7 @@
 
 
 效果图 </br>
-<img https://github.com/firsthubgit/PartBluredView/blob/master/screenshot/mohu.gif/>
+
+<iframe height=480 width=360 src="https://github.com/firsthubgit/PartBluredView/blob/master/screenshot/mohu2.mp4">
+
+<iframe height=480 width=360 src="https://github.com/firsthubgit/PartBluredView/blob/master/screenshot/mohu.gif">
