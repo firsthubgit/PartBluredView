@@ -46,6 +46,10 @@ public class PartBluredView extends View {
     }
 
     public void setSrcBitmap(Bitmap bitmap){
+        if(srcBitmap != null){
+            srcBitmap.recycle();
+            srcBitmap = null;
+        }
         srcBitmap = bitmap;
     }
 
